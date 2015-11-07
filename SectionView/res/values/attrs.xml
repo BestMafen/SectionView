@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SectionView">
+        <attr name="textsize" format="reference|dimension"></attr>
+        <attr name="textcolor" format="reference|color"></attr>
+        <attr name="selectedcolor" format="reference|color"></attr>
+        <attr name="bg" format="reference|color"></attr>
+    </declare-styleable>
+
+</resources>
